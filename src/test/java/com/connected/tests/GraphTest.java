@@ -8,8 +8,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.city.connection.CityConnection.Service.RouteManager;
-import com.city.connection.CityConnection.Service.RouteManagerImpl;
+import com.city.connection.service.RouteManager;
+import com.city.connection.service.RouteManagerImpl;
 
 public class GraphTest
 {

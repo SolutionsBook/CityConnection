@@ -1,4 +1,4 @@
-package com.city.connection.CityConnection.Service;
+package com.city.connection.service;
 
 import java.util.List;
 
